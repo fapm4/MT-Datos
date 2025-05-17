@@ -1,0 +1,7 @@
+eval_loss,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,config
+,,,,,config_1_resampled
+,,,,,config_2_resampled
+,,,,,config_3_resampled
+,,,,,config_4_resampled
+,,,,,config_5_resampled
+,,,,,config_6_resampled
