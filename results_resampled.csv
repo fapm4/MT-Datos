@@ -1,7 +1,7 @@
-eval_loss,eval_runtime,eval_samples_per_second,eval_steps_per_second,epoch,config
-,,,,,config_1_resampled
-,,,,,config_2_resampled
-,,,,,config_3_resampled
-,,,,,config_4_resampled
-,,,,,config_5_resampled
-,,,,,config_6_resampled
+train_loss,validation_loss,test_loss,config
+0.00012915072147734463,0.00012077368592144921,0.00011940805416088551,config_1_resampled
+1.794133186340332,1.7924413681030273,1.7912023067474365,config_2_resampled
+5.954121112823486,5.870783805847168,5.920792102813721,config_3_resampled
+5.090766421744775e-07,4.452283519640332e-07,4.520016148035211e-07,config_4_resampled
+7.863195419311523,7.7948431968688965,7.834094524383545,config_5_resampled
+0.8951203227043152,0.8943759799003601,0.8941858410835266,config_6_resampled
